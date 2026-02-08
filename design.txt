@@ -1,0 +1,4 @@
+start
+Read 3 variables as name,email,number from user
+display result
+stop
